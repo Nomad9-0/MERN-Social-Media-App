@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Nomad-CA:Nomad-CA@devconnector.t9ejm.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Nomad-CA:Nomad-CA@devconnector.t9ejm.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
