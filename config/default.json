@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://Nomad-CA:Nomad-CA@devconnector.t9ejm.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "06272d299cb4f70b63c2",
+    "githubSecret": "9d6ea1416bbfc0c6089871fd65400a3385247d00"
 }
